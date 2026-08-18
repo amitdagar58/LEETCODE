@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitdagar58/LEETCODE/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amitdagar58/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/amitdagar58/LEETCODE/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
