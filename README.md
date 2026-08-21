@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitdagar58/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amitdagar58/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amitdagar58/LEETCODE/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/amitdagar58/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/amitdagar58/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/amitdagar58/LEETCODE/tree/master/0134-gas-station) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/amitdagar58/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/amitdagar58/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
