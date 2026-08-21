@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amitdagar58/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/amitdagar58/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
+| [0134-gas-station](https://github.com/amitdagar58/LEETCODE/tree/master/0134-gas-station) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/amitdagar58/LEETCODE/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
