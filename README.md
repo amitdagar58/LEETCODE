@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/amitdagar58/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/amitdagar58/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amitdagar58/LEETCODE/tree/master/0066-plus-one) |
 ## Sorting
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/amitdagar58/LEETCODE/tree/master/0134-gas-station) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/amitdagar58/LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
