@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amitdagar58/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/amitdagar58/LEETCODE/tree/master/0134-gas-station) |
+| [1652-defuse-the-bomb](https://github.com/amitdagar58/LEETCODE/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/amitdagar58/LEETCODE/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/amitdagar58/LEETCODE/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
