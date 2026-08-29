@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amitdagar58/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amitdagar58/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/amitdagar58/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/amitdagar58/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/amitdagar58/LEETCODE/tree/master/1652-defuse-the-bomb) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
