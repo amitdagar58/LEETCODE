@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amitdagar58/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/amitdagar58/LEETCODE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/amitdagar58/LEETCODE/tree/master/0162-find-peak-element) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amitdagar58/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/amitdagar58/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amitdagar58/LEETCODE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/amitdagar58/LEETCODE/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amitdagar58/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
