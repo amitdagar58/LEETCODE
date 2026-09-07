@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amitdagar58/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
+| [1859-sorting-the-sentence](https://github.com/amitdagar58/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Trie
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/amitdagar58/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
+| [1859-sorting-the-sentence](https://github.com/amitdagar58/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/amitdagar58/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
