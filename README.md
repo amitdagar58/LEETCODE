@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/amitdagar58/LEETCODE/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/amitdagar58/LEETCODE/tree/master/0162-find-peak-element) |
+| [0274-h-index](https://github.com/amitdagar58/LEETCODE/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/amitdagar58/LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0704-binary-search](https://github.com/amitdagar58/LEETCODE/tree/master/0704-binary-search) |
 | [1652-defuse-the-bomb](https://github.com/amitdagar58/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/amitdagar58/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitdagar58/LEETCODE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/amitdagar58/LEETCODE/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/amitdagar58/LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [1859-sorting-the-sentence](https://github.com/amitdagar58/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/amitdagar58/LEETCODE/tree/master/0324-wiggle-sort-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/amitdagar58/LEETCODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
