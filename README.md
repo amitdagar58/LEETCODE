@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/amitdagar58/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitdagar58/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/amitdagar58/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitdagar58/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/amitdagar58/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Trie
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/amitdagar58/LEETCODE/tree/master/0274-h-index) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitdagar58/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amitdagar58/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/amitdagar58/LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
