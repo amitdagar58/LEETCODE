@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amitdagar58/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amitdagar58/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitdagar58/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/amitdagar58/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/amitdagar58/LEETCODE/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/amitdagar58/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Trie
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/amitdagar58/LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amitdagar58/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amitdagar58/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
